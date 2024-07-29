@@ -71,3 +71,6 @@ If the machine is in **vote tallying mode**, then depending on the button presse
 
 This is the Top Design Module
 
+## Architecture
+
+![Screenshot 2024-07-28 105037](https://github.com/user-attachments/assets/100d806d-f3ae-42d7-9f56-9529ce5744de)
